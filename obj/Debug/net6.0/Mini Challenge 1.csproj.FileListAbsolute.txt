@@ -1,0 +1,15 @@
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.csproj.AssemblyReference.cache
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.AssemblyInfoInputs.cache
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.AssemblyInfo.cs
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\Mini Challenge 1\bin\Debug\net6.0\Mini Challenge 1.exe
+C:\Users\lizg1\Mini Challenge 1\bin\Debug\net6.0\Mini Challenge 1.deps.json
+C:\Users\lizg1\Mini Challenge 1\bin\Debug\net6.0\Mini Challenge 1.runtimeconfig.json
+C:\Users\lizg1\Mini Challenge 1\bin\Debug\net6.0\Mini Challenge 1.dll
+C:\Users\lizg1\Mini Challenge 1\bin\Debug\net6.0\Mini Challenge 1.pdb
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.dll
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\refint\Mini Challenge 1.dll
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.pdb
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\Mini Challenge 1.genruntimeconfig.cache
+C:\Users\lizg1\Mini Challenge 1\obj\Debug\net6.0\ref\Mini Challenge 1.dll
